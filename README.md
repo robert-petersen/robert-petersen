@@ -7,7 +7,7 @@
 <img height="32" width="32" src="https://img-premium.flaticon.com/png/512/2305/2305876.png?token=exp=1621285019~hmac=368621aa61cd7f9b187df6cb6bb2c681" /> HTML5,
 <img height="32" width="32" src="https://img-premium.flaticon.com/png/512/2305/2305853.png?token=exp=1621285049~hmac=020d5b043e30a913dd85d1981afa8c6b" /> CSS3,
 <img height="32" width="32" src="https://img-premium.flaticon.com/png/512/2305/2305934.png?token=exp=1621284942~hmac=fd98b13b101d65dd6012aca83731c86b" /> SQL, 
-<img height="32" width="32" src="https://img-premium.flaticon.com/png/512/2305/2305893.png?token=exp=1621285161~hmac=e3c85a0999c8445f617168685eb17073" /> JavaScript,
+<img height="32" width="32" src="https://img-premium.flaticon.com/png/512/2305/2305893.png?token=exp=1621286259~hmac=9d40fce5b8ae000cce649d2664ee95a2" /> JavaScript,
 <img height="32" width="32" src="https://img-premium.flaticon.com/png/512/2535/2535543.png?token=exp=1621284869~hmac=9acfe2574a3e99aa6572f0b1871520be" /> Python
 ### Libraries
 <img height="32" width="32" src="https://www.seekpng.com/png/detail/222-2224692_svg-logo-reactjs-aperture-science-innovators-logo.png" /> React.js,
