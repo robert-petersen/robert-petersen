@@ -10,15 +10,15 @@
 <img height="32" width="32" src="https://img-premium.flaticon.com/png/512/2305/2305893.png?token=exp=1621286259~hmac=9d40fce5b8ae000cce649d2664ee95a2" /> JavaScript,
 <img height="32" width="32" src="https://img-premium.flaticon.com/png/512/2535/2535543.png?token=exp=1621284869~hmac=9acfe2574a3e99aa6572f0b1871520be" /> Python
 ### Libraries
-<img height="32" width="32" src="https://www.seekpng.com/png/detail/222-2224692_svg-logo-reactjs-aperture-science-innovators-logo.png" /> React.js,
-<img height="32" width="32" src="https://code4developers.com/wp-content/uploads/2018/01/Redux.png" /> Redux.js, 
-<img height="32" width="32" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" /> Node.js
+<img height="32" width="32" src="https://img-premium.flaticon.com/png/512/753/753244.png?token=exp=1621287127~hmac=c832966aa778fa1401bbd5329a5bdd72" /> React.js,
+<img height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" /> Redux.js, 
+<img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /> Node.js
 ### Tools
-- Figma
-- Whimsical
-- Adobe XD
-- Trello
-- GitFlow
+<img height="32" width="32" src="https://i.pinimg.com/originals/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.png" /> Figma,
+<img height="32" width="32" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_866febf47336e5b1a375930cfb86c2b5/whimsical.png" /> Whimsical,
+<img height="32" width="32" src="https://e1.pngegg.com/pngimages/855/164/png-clipart-adobe-suite-for-macos-stacks-adobe-xd-icon.png" /> Adobe XD,
+<img height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/trello-512.png" />Trello,
+<img height="32" width="32" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" /> GitFlow
 ### Contact Me
 - Feel free to message me on [Linkedin](https://www.linkedin.com/in/robert-petersen808/)
 
