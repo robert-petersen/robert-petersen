@@ -16,7 +16,7 @@
 ### Tools
 <img height="32" width="32" src="https://i.pinimg.com/originals/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.png" /> Figma,
 <img height="32" width="32" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_866febf47336e5b1a375930cfb86c2b5/whimsical.png" /> Whimsical,
-<img height="32" width="32" src="https://e1.pngegg.com/pngimages/855/164/png-clipart-adobe-suite-for-macos-stacks-adobe-xd-icon.png" /> Adobe XD,
+<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png" /> Adobe XD,
 <img height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/trello-512.png" />Trello,
 <img height="32" width="32" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" /> GitFlow
 ### Contact Me
