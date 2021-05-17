@@ -2,7 +2,8 @@
 
 My name is Robert and I'm an aspiring full-stack web developer who loves problem solving. I enjoy Star Wars, video games, fishing, hiking, and a ton of other outdoor activities. I'm experienced in using languages such as HTML, CSS, SQL, Python, and JavaScript, including libraries such as React.js, Redux.js, and Node.js, to build web applications from the ground up. I have a background in retail, customer service, sales, and lower management.
   
-Feel free to message me at rahbshimself182@gmail.com or on my Linkedin at https://www.linkedin.com/in/robert-petersen808/
+Feel free to message me: 
+Linkedin: https://www.linkedin.com/in/robert-petersen808/
 
 <!--
 **robert-petersen/robert-petersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
