@@ -4,11 +4,16 @@
 - I enjoy Star Wars 🤺, video games 🎮, fishing 🎣, hiking 🚶‍♂️, and a ton of other outdoor activities 🏕️
 - I have a background in retail, customer service, sales, and lower management
 ### Languages
-<img height="32" width="32" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" />; HTML5,
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />; CSS3,
-<img height="32" width="32" src="https://www.logolynx.com/images/logolynx/73/73dcca5b2435a4fc91983ab4170cd695.png" />; SQL, 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />; Python, 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />; JavaScript
+<img height="32" width="32" src="https://img-premium.flaticon.com/png/512/2305/2305876.png?token=exp=1621285019~hmac=368621aa61cd7f9b187df6cb6bb2c681" /> HTML5,
+
+<img height="32" width="32" src="https://img-premium.flaticon.com/png/512/2305/2305853.png?token=exp=1621285049~hmac=020d5b043e30a913dd85d1981afa8c6b" /> CSS3,
+
+<img height="32" width="32" src="https://img-premium.flaticon.com/png/512/2305/2305934.png?token=exp=1621284942~hmac=fd98b13b101d65dd6012aca83731c86b" /> SQL, 
+
+<img height="32" width="32" src="https://img-premium.flaticon.com/png/512/2535/2535543.png?token=exp=1621284869~hmac=9acfe2574a3e99aa6572f0b1871520be" /> Python, 
+
+<img height="32" width="32" src="https://img-premium.flaticon.com/png/512/136/136530.png?token=exp=1621284803~hmac=591a89d1176d50469b68158591452b97" /> JavaScript
+
 ### Libraries
 - React.js
 - Redux.js 
