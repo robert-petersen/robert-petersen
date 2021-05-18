@@ -4,11 +4,11 @@
 - I enjoy Star Wars 🤺, video games 🎮, fishing 🎣, hiking 🚶‍♂️, and a ton of other outdoor activities 🏕️
 - I have a background in retail, customer service, sales, and lower management
 ### Languages
-<img height="32" width="32" src="https://img-premium.flaticon.com/png/512/2305/2305876.png?token=exp=1621285019~hmac=368621aa61cd7f9b187df6cb6bb2c681" /> HTML5,
-<img height="32" width="32" src="https://img-premium.flaticon.com/png/512/2305/2305853.png?token=exp=1621285049~hmac=020d5b043e30a913dd85d1981afa8c6b" /> CSS3,
-<img height="32" width="32" src="https://img-premium.flaticon.com/png/512/2305/2305934.png?token=exp=1621284942~hmac=fd98b13b101d65dd6012aca83731c86b" /> SQL, 
-<img height="32" width="32" src="https://img-premium.flaticon.com/png/512/2305/2305893.png?token=exp=1621286259~hmac=9d40fce5b8ae000cce649d2664ee95a2" /> JavaScript,
-<img height="32" width="32" src="https://img-premium.flaticon.com/png/512/2535/2535543.png?token=exp=1621284869~hmac=9acfe2574a3e99aa6572f0b1871520be" /> Python
+<img height="32" width="32" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_html5-512.png" /> HTML5,
+<img height="32" width="32" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_css3-512.png" /> CSS3,
+<img height="32" width="32" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png" /> SQL, 
+<img height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" /> JavaScript,
+<img height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" /> Python
 ### Libraries
 <img height="32" width="32" src="https://img-premium.flaticon.com/png/512/753/753244.png?token=exp=1621287127~hmac=c832966aa778fa1401bbd5329a5bdd72" /> React.js,
 <img height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" /> Redux.js, 
