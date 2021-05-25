@@ -1,6 +1,6 @@
 ## Hello there! 👋
 ### About Me
-- My name is Robert and I'm an aspiring full-stack web developer who loves problem solving 👨‍💻
+- My name is Robert and I'm an full-stack web developer who loves problem solving 👨‍💻
 - I enjoy Star Wars 🤺, video games 🎮, fishing 🎣, hiking 🚶‍♂️, and a ton of other outdoor activities 🏕️
 - I have a background in retail, customer service, sales, and lower management
 ### Languages
