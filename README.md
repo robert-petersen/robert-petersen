@@ -10,7 +10,7 @@
 <img height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" /> JavaScript,
 <img height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" /> Python
 ### Libraries
-<img height="32" width="32" src="https://img-premium.flaticon.com/png/512/753/753244.png?token=exp=1621287127~hmac=c832966aa778fa1401bbd5329a5bdd72" /> React.js,
+<img height="32" width="32" src="https://image.flaticon.com/icons/png/512/753/753244.png" /> React.js,
 <img height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" /> Redux.js, 
 <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /> Node.js
 ### Tools
