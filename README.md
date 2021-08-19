@@ -3,6 +3,7 @@
 - My name is Robert and I'm an full-stack web developer who loves problem solving 👨‍💻
 - I enjoy Star Wars 🤺, video games 🎮, fishing 🎣, hiking 🚶‍♂️, and a ton of other outdoor activities 🏕️
 - I have a background in retail, customer service, sales, and lower management
+- Check out my <a href="https://robert-petersen.vercel.app/" >portfolio website</a>
 ### Languages
 <img height="32" width="32" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_html5-512.png" /> HTML5,
 <img height="32" width="32" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_css3-512.png" /> CSS3,
