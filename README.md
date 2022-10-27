@@ -7,7 +7,7 @@
 ### Languages
 <img height="32" width="32" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_html5-512.png" /> HTML5,
 <img height="32" width="32" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_css3-512.png" /> CSS3,
-<img height="32" width="32" src="https://dataplatformlabs.com/wp-content/uploads/2017/07/azure-sql-cover-e1457998199378.png" /> SQL, 
+<img height="32" width="32" src="https://w7.pngwing.com/pngs/552/345/png-transparent-sql-database-computer-icons-sql-icon-blue-text-rectangle-thumbnail.png" /> SQL, 
 <img height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" /> JavaScript,
 <img height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" /> Python
 ### Libraries
