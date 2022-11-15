@@ -21,7 +21,7 @@
 <img height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/trello-512.png" />Trello,
 <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" /> GitFlow,
 <img height="32" width="32" src="https://miro.medium.com/max/512/1*fVBL9mtLJmHIH6YpU7WvHQ.png" /> Postman,
-<img height="32" width="32" src="https://p1.hiclipart.com/preview/272/662/574/numix-circle-for-windows-sqlitestudio-icon-png-icon-thumbnail.jpg" /> SQLite Studio,
+<img height="32" width="32" src="https://sg-res.9appsdownloading.com/sg/res/jpg/ca/08/d46e2362723700c15c6abf4a9238-q4l1.jpg?x-oss-process=style/mq200" /> SQLite Studio,
 <img height="32" width="32" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" /> VS Code
 ### Contact Me
 - Feel free to message me on [Linkedin](https://www.linkedin.com/in/robert-petersen808/)
