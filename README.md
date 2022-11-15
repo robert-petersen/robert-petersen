@@ -19,7 +19,7 @@
 <img height="32" width="32" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_866febf47336e5b1a375930cfb86c2b5/whimsical.png" /> Whimsical,
 <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png" /> Adobe XD,
 <img height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/trello-512.png" />Trello,
-<img height="32" width="32" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" /> GitFlow,
+<img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" /> GitFlow,
 <img height="32" width="32" src="https://miro.medium.com/max/512/1*fVBL9mtLJmHIH6YpU7WvHQ.png" /> Postman,
 <img height="32" width="32" src="https://p1.hiclipart.com/preview/272/662/574/numix-circle-for-windows-sqlitestudio-icon-png-icon-thumbnail.jpg" /> SQLite Studio,
 <img height="32" width="32" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" /> VS Code
