@@ -7,7 +7,7 @@
 - My name is Robert and I'm an full-stack web developer who loves problem solving 👨‍💻
 - I enjoy Star Wars 🤺, video games 🎮, fishing 🎣, hiking 🚶‍♂️, and a ton of other outdoor activities 🏕️
 - I have a background in retail, customer service, sales, and lower management
-- Check out my <a href="https://robert-petersen.vercel.app/" >portfolio website</a>.
+- Check out my <a href="https://robert-petersen.vercel.app/" >portfolio website</a>
 
 ### Languages
 
