@@ -1,22 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&customColorList=1" width="100%"/>
 
-<div align="center">
-  
-  <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47wq0f1u1j2b9eis3ln718bm6gkb8cq1cxlf7nvvh6&rid=giphy.gif&ct=g" width="300"/>
-  
-  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=robert-petersen.visitor-badge&left_text=Page%20Visitors)
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-petersen&count_private=true&hide=stars,issues&show_icons=true&theme=radical)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robert-petersen&layout=compact&theme=radical)
-  
-</div>
+# Hello there! 👋
 
-## Hello there! 👋
-
-<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=robert-petersen.visitor-badge&left_text=Page%20Visitors)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-petersen&count_private=true&hide=stars,issues&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robert-petersen&layout=compact&theme=radical) -->
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=robert-petersen.visitor-badge&left_text=Page%20Visitors)
 
 ### About Me
 
@@ -54,4 +40,24 @@
 
 - Feel free to message me on [Linkedin](https://www.linkedin.com/in/robert-petersen808/)
 
+<!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=1" width="100%"/>
+
+
+
+
+
+<!-- New Layout Ideas -->
+
+<!-- <div align="center">
+  <h1>Hello there, I'm Rob! 👋</h1>
+  <br />
+  <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47wq0f1u1j2b9eis3ln718bm6gkb8cq1cxlf7nvvh6&rid=giphy.gif&ct=g" width="300"/>
+  
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=robert-petersen.visitor-badge&left_text=Page%20Visitors)
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-petersen&count_private=true&hide=stars,issues&show_icons=true&theme=radical)
+  
+</div> -->
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robert-petersen&layout=compact&theme=radical) -->
