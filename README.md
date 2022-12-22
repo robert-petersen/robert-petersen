@@ -2,6 +2,8 @@
 
 ## Hello there! 👋
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=robert-petersen.visitor-badge)
+
 ### About Me
 
 - My name is Robert and I'm an full-stack web developer who loves problem solving 👨‍💻
