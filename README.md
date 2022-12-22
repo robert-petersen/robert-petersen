@@ -4,6 +4,10 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=robert-petersen.visitor-badge&left_text=Page%20Visitors)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-petersen&count_private=true&hide=stars,issues&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robert-petersen&layout=compact&theme=radical)
+
 ### About Me
 
 - My name is Robert and I'm an full-stack web developer who loves problem solving 👨‍💻
