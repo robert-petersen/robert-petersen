@@ -2,7 +2,7 @@
 
 ## Hello there! 👋
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=robert-petersen.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=robert-petersen.visitor-badge&left_text=Page%20Visitors)
 
 ### About Me
 
