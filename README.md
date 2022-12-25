@@ -49,6 +49,13 @@
 
 <!-- New Layout Ideas -->
 
+<!-- 
+Want to have
+- img (centered)
+
+ 
+-->
+
 <!-- <div align="center">
   <h1>Hello there, I'm Rob! 👋</h1>
   <br />
