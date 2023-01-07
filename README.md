@@ -52,6 +52,7 @@
 <!-- 
 Want to have
 - img (centered)
+- Some widgets
 
  
 -->
