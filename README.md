@@ -19,6 +19,8 @@
 <img height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" /> JavaScript,
 <img height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" /> Python
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robert-petersen&layout=compact&theme=radical)
+
 ### Libraries
 
 <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" /> React.js,
