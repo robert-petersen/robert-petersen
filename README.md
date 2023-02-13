@@ -11,8 +11,6 @@
 - I have a background in retail, customer service, sales, and lower management
 - Check out my <a href="https://robert-petersen.vercel.app/" >portfolio website</a> and my [Linkedin](https://www.linkedin.com/in/robert-petersen808/)
 
-### More About Me
-
 <details>
  <summary>
   What I am learning
