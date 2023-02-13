@@ -11,6 +11,47 @@
 - I have a background in retail, customer service, sales, and lower management
 - Check out my <a href="https://robert-petersen.vercel.app/" >portfolio website</a> and my [Linkedin](https://www.linkedin.com/in/robert-petersen808/)
 
+### More About Me
+
+<details>
+ <summary>
+  What I am learning
+ </summary>
+ 
+ <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" /> TypeScript,
+ <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" /> Tailwind CSS,
+ <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" /> Next.js
+ 
+</details>
+
+<!--
+<details>
+ <summary>
+  
+ </summary>
+ 
+
+</details>
+-->
+
+<details>
+ <summary>
+  My GitHub Stats
+ </summary>
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-petersen&count_private=true&hide=stars,issues&show_icons=true&theme=radical)
+
+</details>
+
+<details>
+ <summary>
+  My Most Used Languages
+ </summary>
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robert-petersen&layout=compact&theme=radical)
+
+</details>
+
 ### Languages
 
 <img height="32" width="32" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_html5-512.png" /> HTML5
@@ -18,8 +59,6 @@
 <img height="32" width="32" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" /> SQL, 
 <img height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" /> JavaScript,
 <img height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" /> Python
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robert-petersen&layout=compact&theme=radical)
 
 ### Libraries
 
@@ -37,19 +76,6 @@
 <img height="32" width="32" src="https://miro.medium.com/max/512/1*fVBL9mtLJmHIH6YpU7WvHQ.png" /> Postman,
 <img height="32" width="32" src="https://sg-res.9appsdownloading.com/sg/res/jpg/ca/08/d46e2362723700c15c6abf4a9238-q4l1.jpg?x-oss-process=style/mq200" /> SQLite Studio,
 <img height="32" width="32" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" /> VS Code
-
-### More About Me
-
-<details>
- <summary>
-  What I am learning
- </summary>
- 
- <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" /> TypeScript,
- <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" /> Tailwind CSS,
- <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" /> NextJS
- 
-</details>
 
 ### Contact Me
 
