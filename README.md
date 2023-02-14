@@ -44,15 +44,16 @@
 
 <img height="32" width="32" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_html5-512.png" /> HTML5
 <img height="32" width="32" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_css3-512.png" /> CSS3,
-<img height="32" width="32" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" /> SQL, 
 <img height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" /> JavaScript,
-<img height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" /> Python
+<img height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" /> Python,
+<img height="32" width="32" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" /> SQL
 
 ### Libraries
 
 <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" /> React.js,
 <img height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" /> Redux.js, 
-<img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /> Node.js
+<img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /> Node.js,
+<img height="32" width="32" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" /> SASS
 
 ### Tools
 
