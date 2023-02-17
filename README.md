@@ -69,7 +69,8 @@
  More
  </summary>
  
- <img height="32" width="32" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" /> Styled Components
+ <img height="32" width="32" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" /> Styled Components,
+ <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" /> Bootstrap
  
 </details>
 
