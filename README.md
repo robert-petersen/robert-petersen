@@ -53,7 +53,8 @@
  More
  </summary>
  
- <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" /> Lua
+ <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" /> Lua,
+ <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" /> C,
  
 </details>
 
