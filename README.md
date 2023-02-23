@@ -88,7 +88,6 @@
  </summary>
  
  <img height="32" width="32" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_866febf47336e5b1a375930cfb86c2b5/whimsical.png" /> Whimsical,
-<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png" /> Adobe XD,
 <img height="32" width="32" src="https://miro.medium.com/max/512/1*fVBL9mtLJmHIH6YpU7WvHQ.png" /> Postman,
 <img height="32" width="32" src="https://sg-res.9appsdownloading.com/sg/res/jpg/ca/08/d46e2362723700c15c6abf4a9238-q4l1.jpg?x-oss-process=style/mq200" /> SQLite Studio
  
