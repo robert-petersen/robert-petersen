@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&customColorList=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&customColorList=1" width="100%" alt="Visitor Badge / If not loaded there was too much traffic :("/>
 
 # Hello there! 👋
 
