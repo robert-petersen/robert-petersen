@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&customColorList=1" width="100%" alt="Visitor Badge / If not loaded there was too much traffic :("/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&customColorList=1" width="100%"/>
 
 # Hello there! 👋
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=robert-petersen.visitor-badge&left_text=Page%20Visitors)
+![visitor badge / If not loading there is too much traffic :(](https://visitor-badge.glitch.me/badge?page_id=robert-petersen.visitor-badge&left_text=Page%20Visitors)
 
 ### About Me
 
