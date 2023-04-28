@@ -48,16 +48,6 @@
 <img height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" /> Python,
 <img height="32" width="32" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png" /> SQL
 
-<details>
- <summary>
- More
- </summary>
- 
- <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" /> Lua
-<!--  <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" /> C, -->
- 
-</details>
-
 ### Libraries
 
 <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" /> React.js,
@@ -65,33 +55,12 @@
 <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /> Node.js,
 <img height="32" width="32" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" /> SASS
 
-<details>
- <summary>
- More
- </summary>
- 
- <img height="32" width="32" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" /> Styled Components,
- <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" /> Bootstrap
- 
-</details>
-
 ### Tools
 
 <img height="32" width="32" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" /> VS Code,
 <img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" /> GitFlow,
 <img height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/trello-512.png" />Trello,
 <img height="32" width="32" src="https://i.pinimg.com/originals/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.png" /> Figma
-
-<details>
- <summary>
- More
- </summary>
- 
- <img height="32" width="32" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_866febf47336e5b1a375930cfb86c2b5/whimsical.png" /> Whimsical,
-<img height="32" width="32" src="https://miro.medium.com/max/512/1*fVBL9mtLJmHIH6YpU7WvHQ.png" /> Postman,
-<img height="32" width="32" src="https://sg-res.9appsdownloading.com/sg/res/jpg/ca/08/d46e2362723700c15c6abf4a9238-q4l1.jpg?x-oss-process=style/mq200" /> SQLite Studio
- 
-</details>
 
 ### Contact Me
 
