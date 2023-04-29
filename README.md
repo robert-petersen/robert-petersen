@@ -28,6 +28,8 @@
   My GitHub Stats
  </summary>
  
+ <br />
+ 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-petersen&count_private=true&hide=stars,issues&show_icons=true&theme=radical)
 
 </details>
@@ -36,6 +38,8 @@
  <summary>
   My Most Used Languages
  </summary>
+ 
+ <br />
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robert-petersen&layout=compact&theme=radical)
 
