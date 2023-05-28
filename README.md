@@ -2,9 +2,6 @@
 
 # Hello there! 👋
 
-<!-- ![visitor badge / If not loading there is too much traffic :(](https://visitor-badge.glitch.me/badge?page_id=robert-petersen.visitor-badge&left_text=Page%20Visitors) --> 
-<!-- Badge currently down -->
-
 ### About Me
 
 - My name is Robert and I'm an full-stack web developer who loves problem solving 👨‍💻
